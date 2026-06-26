@@ -39,7 +39,7 @@ Languages/Systems I know (not all used on this profile):
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg' width="50"/>
 
 
-<span style="background-color: #09F705; color: black; padding: 0.2em 0.4em; border-radius: 3px;">Projects Celebrating:</span>  
+<span style="background-color: #09F705; color: green; padding: 0.2em 0.4em; border-radius: 3px;">Projects Celebrating:</span>  
 WhoCaresAboutHolds
 
 Projects Focusing:
