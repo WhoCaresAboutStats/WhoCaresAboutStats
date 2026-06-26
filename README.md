@@ -36,10 +36,10 @@ Languages/Systems I know (not all used on this profile):
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg' width="50"/>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg' width="50"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg' width="50" style="filter: invert(1);"/>
 
 
-<span style="background-color: #09F705; color: green; padding: 0.2em 0.4em; border-radius: 3px;">Projects Celebrating:</span>  
+Projects Celebrating:
 WhoCaresAboutHolds
 
 Projects Focusing:
