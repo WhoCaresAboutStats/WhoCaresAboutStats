@@ -35,7 +35,7 @@ Languages/Systems I know (not all used on this profile):
 [![My Skills](https://skillicons.dev/icons?i=pycharm,robloxstudio,windows,anaconda,c,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi)](https://skillicons.dev)
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' />
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
 
 
 
