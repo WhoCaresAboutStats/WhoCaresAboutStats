@@ -37,18 +37,22 @@ Languages/Systems I know (not all used on this profile):
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg' width="50"/>
 
-Projects Celebrating:
-WhoCaresAboutHolds
+Projects Celebrating: 
+- WhoCaresAboutHolds
 
 Projects Focusing:
-WhoCaresAboutComputerVision
-WhoCaresAboutNeuralNetwork
+- Project A:
+  - WhoCaresAboutComputerVision
+  - WhoCaresAboutNeuralNetwork
 
 Projects Commencing:
-WhoCaresAboutPitchComms
-WhoCaresAboutHUD
+- Project B:
+  - WhoCaresAboutPitchComms
+  - WhoCaresAboutHUD
 
 Projects Dreaming:
-WhoCaresAboutTourDeFrance
-WhoCaresAboutGearOptimization
-WhoCaresAboutMusic
+- Project C:
+  - WhoCaresAboutTourDeFrance
+  - WhoCaresAboutGearOptimization
+- Project D:
+  - WhoCaresAboutMusic
