@@ -37,6 +37,7 @@ Languages/Systems I know (not all used on this profile):
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg' width="50" style="filter: invert(1)"/>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg' width="50"/>
 
 
 Projects Celebrating:
