@@ -35,17 +35,22 @@ Languages/Systems I know (not all used on this profile):
 [![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi)](https://skillicons.dev)
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg' width="50"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg' width="50"/>
 
 
-
-Projects Completed:
+<span style="background-color: #09F705; color: black; padding: 0.2em 0.4em; border-radius: 3px;">Projects Celebrating:</span>  
 WhoCaresAboutHolds
 
-Projects Active:
+Projects Focusing:
 WhoCaresAboutComputerVision
 WhoCaresAboutNeuralNetwork
 
-Projects Future:
+Projects Commencing:
 WhoCaresAboutPitchComms
 WhoCaresAboutHUD
+
+Projects Dreaming:
+WhoCaresAboutTourDeFrance
+WhoCaresAboutGearOptimization
 WhoCaresAboutMusic
