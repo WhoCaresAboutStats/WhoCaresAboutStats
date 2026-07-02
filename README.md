@@ -33,11 +33,12 @@ Languages/Systems I know (not all used on this profile):
 [![My Skills](https://skillicons.dev/icons?i=bash,c,githubactions,matlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pycharm,robloxstudio,windows,anaconda,c,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi,obsidian,md)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svg,androidstudio,kotlin,nodejs,gradle,visualstudio)](https://skillicons.dev)
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg' width="50"/>
+
 
 Projects Celebrating: 
 - WhoCaresAboutHolds
