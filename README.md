@@ -33,7 +33,7 @@ Languages/Systems I know (not all used on this profile):
 <a href="#"><img src="197655.png" width="50" height="50"></a>
 [![My Skills](https://skillicons.dev/icons?i=bash,c,githubactions,matlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pycharm,robloxstudio,windows,anaconda,c,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi,obsidian,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi,obsidian,md,arduino)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=svg,androidstudio,kotlin,nodejs,gradle,visualstudio)](https://skillicons.dev)
 
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
