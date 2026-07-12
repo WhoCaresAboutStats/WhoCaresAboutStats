@@ -44,16 +44,18 @@ Languages/Systems I know (not all used on this profile):
 
 Projects Celebrating: 
 - WhoCaresAboutHolds
-
-Projects Focusing:
 - Project A:
   - WhoCaresAboutComputerVision
   - WhoCaresAboutNeuralNetwork
 
-Projects Commencing:
+Projects Focusing:
 - Project B:
   - WhoCaresAboutPitchComms
   - WhoCaresAboutHUD
+
+Projects Commencing:
+- Project E:
+  - WhoCaresAboutUnityLoadingScreens
 
 Projects Dreaming:
 - Project C:
