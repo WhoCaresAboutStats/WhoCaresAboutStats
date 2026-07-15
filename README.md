@@ -1,7 +1,7 @@
 
 Hello and welcome to WhoCaresAboutStats. This personal project will mostly pertain to Baseball but maybe I sprinkle in a few economic, social, and political examinations as they relate to America's Pasttime. I make a ton of sports references and I love the Rays. I cannot figure out how to retroactively connect VSCode to GitHub despite coding for 8 years (6 of those on VSCode w/ Github). Anyways, I hope you enjoy.
 
-Languages/Systems I know (not all used on this profile):
+Languages/Systems I use (not all used on this profile):
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pytorch-dark.svg" width="50"></a>
