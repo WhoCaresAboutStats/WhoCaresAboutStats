@@ -41,6 +41,7 @@ Languages/Systems I use (not all used on this profile):
 [![My Skills](https://skillicons.dev/icons?i=nim)](https://skillicons.dev)
 
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
+<a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg' width="50"/>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg' width="50"/>
