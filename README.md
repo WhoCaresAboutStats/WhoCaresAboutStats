@@ -54,8 +54,8 @@ Projects Celebrating:
 
 Projects Focusing:
 - Project B:
-  - WhoCaresAboutPitchComms
-  - WhoCaresAboutHUD
+  - WhoCaresAboutPitchComms -> Phase 2 
+  - WhoCaresAboutHUD -> Phase 1 ✅
 
 Projects Commencing:
 - Project E:
