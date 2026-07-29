@@ -52,19 +52,21 @@ Projects Celebrating:
 - Project A:
   - WhoCaresAboutComputerVision
   - WhoCaresAboutNeuralNetwork
+- WhoCaresAboutBaseDataset
 
 Projects Focusing:
 - Project B:
-  - WhoCaresAboutPitchComms -> Phase 2 
+  - WhoCaresAboutFieldManagement -> Phase 3
+  - WhoCaresAboutPitchComms -> Phase 2 ✅
   - WhoCaresAboutHUD -> Phase 1 ✅
 
 Projects Commencing:
-- Project E:
-  - WhoCaresAboutUnityLoadingScreens
 
 Projects Dreaming:
 - Project C:
   - WhoCaresAboutTourDeFrance
   - WhoCaresAboutGearOptimization
-- Project D:
-  - WhoCaresAboutMusic
+- WhoCaresAboutMusic
+- WhoCaresAboutUnityLoadingScreens
+- WhoCaresAboutStealPotential
+- WhoLoathesTheCityBoard
