@@ -56,7 +56,7 @@ Projects Celebrating:
 
 Projects Focusing:
 - Project B:
-  - WhoCaresAboutFieldManagement -> Phase 3
+  - WhoCaresAboutStealRiskVsReward -> Phase 3
   - WhoCaresAboutPitchComms -> Phase 2 ✅
   - WhoCaresAboutHUD -> Phase 1 ✅
 
@@ -68,5 +68,4 @@ Projects Dreaming:
   - WhoCaresAboutGearOptimization
 - WhoCaresAboutMusic
 - WhoCaresAboutUnityLoadingScreens
-- WhoCaresAboutStealPotential
 - WhoLoathesTheCityBoard
