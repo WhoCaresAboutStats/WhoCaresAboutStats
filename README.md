@@ -53,17 +53,19 @@ Projects Celebrating:
   - WhoCaresAboutComputerVision
   - WhoCaresAboutNeuralNetwork
 - WhoCaresAboutBaseDataset
+- Project B:
+  - WhoCaresAboutPitchComms -> Phase 2
+  - WhoCaresAboutHUD -> Phase 1
 
 Projects Focusing:
-- Project B:
-  - WhoCaresAboutStealRiskVsReward -> Phase 3
-  - WhoCaresAboutPitchComms -> Phase 2 ✅
-  - WhoCaresAboutHUD -> Phase 1 ✅
+- WhoCaresAboutStealRiskVsReward
 
 Projects Commencing:
+- Project C:
+  - Who'sThatPlayer!! (Input Stats -> Output Player) 
 
 Projects Dreaming:
-- Project C:
+- Project D:
   - WhoCaresAboutTourDeFrance
   - WhoCaresAboutGearOptimization
 - WhoCaresAboutMusic
