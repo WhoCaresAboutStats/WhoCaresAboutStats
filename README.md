@@ -38,7 +38,7 @@ Languages/Systems I use (not all used on this profile):
 [![My Skills](https://skillicons.dev/icons?i=pycharm,robloxstudio,windows,anaconda,c,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi,obsidian,md,arduino)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=svg,androidstudio,kotlin,nodejs,gradle,visualstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nim,PostgreSQL-Dark)](https://skillicons.dev)
 
 <a href="#"><img src="TrumpScript.jpg" width="50" height="50"></a>
 <a href="#"><img src="13-137348_logo-r-programming.png" width="50" height="50"></a>
