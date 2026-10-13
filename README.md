@@ -56,9 +56,10 @@ Projects Celebrating:
 - Project B:
   - WhoCaresAboutPitchComms -> Phase 2
   - WhoCaresAboutHUD -> Phase 1
+- WhoCaresAboutStealRiskVsReward
 
 Projects Focusing:
-- WhoCaresAboutStealRiskVsReward
+- WhoCaresAboutHUD2 (Updates)
 
 Projects Commencing:
 - Project C:
