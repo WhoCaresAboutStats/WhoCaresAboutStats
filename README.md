@@ -71,6 +71,8 @@ Projects Dreaming:
 - Project E:
   - WhoCaresAboutTourDeFrance
   - WhoCaresAboutGearOptimization
+- Project F:
+  - WhoCaresAboutPitchingMound
 - WhoCaresAboutMusic
 - WhoCaresAboutUnityLoadingScreens
 - WhoLTCB
