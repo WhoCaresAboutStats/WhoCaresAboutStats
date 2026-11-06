@@ -36,7 +36,7 @@ Languages/Systems I use (not all used on this profile):
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mojo-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/wsl.svg" width="50"></a>
 <a href="#"><img src="197655.png" width="50" height="50"></a>
-[![My Skills](https://skillicons.dev/icons?i=bash,githubactions,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,githubactions)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pycharm,robloxstudio,windows,anaconda,c,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=blender,raspberrypi,obsidian,md,arduino)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=svg,androidstudio,kotlin,nodejs,gradle,visualstudio)](https://skillicons.dev)
