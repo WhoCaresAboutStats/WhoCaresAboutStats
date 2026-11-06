@@ -62,10 +62,10 @@ Projects Celebrating:
 
 Projects Focusing:
 - WhoCaresAboutHUD2 (Updates)
-
-Projects Commencing:
 - Project C:
   - Who'sThatPlayer!! (Input Stats -> Output Player) 
+
+Projects Commencing:
 
 Projects Dreaming:
 - Project D:
