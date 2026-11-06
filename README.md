@@ -61,11 +61,12 @@ Projects Celebrating:
 - WhoCaresAboutStealRiskVsReward + Partnership with BaseballCV
 
 Projects Focusing:
-- WhoCaresAboutHUD2 (Updates)
 - Project C:
   - Who'sThatPlayer!! (Input Stats -> Output Player) 
+- WCA_RetroSheet_PxP_Game
 
 Projects Commencing:
+- WhoCaresAboutHUD2 (Updates)
 
 Projects Dreaming:
 - Project D:
