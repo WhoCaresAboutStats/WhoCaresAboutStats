@@ -67,7 +67,7 @@ Projects Focusing:
 
 Projects Commencing:
 - WhoCaresAboutHUD2 (Updates)
-
+- WhoCaresAboutGMStat (Stat that quantifies the effectiveness of GMs accounting for contracts, trades, budgets, and more)
 Projects Dreaming:
 - Project D:
   - WhoCaresAboutCodingLanguage (Machine++)
