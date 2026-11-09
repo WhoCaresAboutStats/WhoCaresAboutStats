@@ -61,14 +61,15 @@ Projects Celebrating:
 - WhoCaresAboutStealRiskVsReward + Partnership with BaseballCV
 
 Projects Focusing:
-- Project C:
-  - Who'sThatPlayer!! (Input Stats -> Output Player) 
 - WCA_RetroSheet_PxP_Game
+- WhoCaresAboutMagnusOnlyBreak (My First Research Project)
 
 Projects Commencing:
 - WhoCaresAboutHUD2 (Updates)
 - WhoCaresAboutGMStat (Stat that quantifies the effectiveness of GMs accounting for contracts, trades, budgets, and more)
+
 Projects Dreaming:
+- Who'sThatPlayer!! (Input Stats -> Output Player) 
 - Project D:
   - WhoCaresAboutCodingLanguage (Machine++)
 - Project E:
