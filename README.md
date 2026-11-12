@@ -62,7 +62,7 @@ Projects Celebrating:
 
 Projects Focusing:
 - WCA_RetroSheet_PxP_Game
-- WhoCaresAboutMagnusOnlyBreak (My First Research Project)
+- WhoCaresAboutResearchProject
 
 Projects Commencing:
 - WhoCaresAboutHUD2 (Updates)
